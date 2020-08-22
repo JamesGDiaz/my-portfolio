@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import 'tachyons/css/tachyons.css';
+
 
 export default {
   name: 'Footer',
@@ -29,5 +29,11 @@ export default {
 <style lang="scss" scoped>
 footer {
   background: $background;
+  .fa-vuejs{
+    color:#4fc08d;
+  }
+  .fa-heart{
+    color:$attention;
+  }
 }
 </style>

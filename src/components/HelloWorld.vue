@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import 'tachyons/css/tachyons.css';
+
 
 export default {
   name: 'HelloWorld',

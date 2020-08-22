@@ -1,19 +1,15 @@
 <template>
-  <main-layout>
-    <div class="flex flex-column center pa3">
+    <div class="flex flex-column fg center pa3">
       <div class="w-100 h4 mt3 mt2-m">
-        <div class="f-4-s f-5-m f-6-l name primary">Placeholder</div>
+        <div class="f-4-s f-5-m f-6-l name primary">What I Know</div>
       </div>
     </div>
-  </main-layout>
 </template>
 
 <script>
-import MainLayout from '../layouts/Main.vue';
 
-import 'tachyons/css/tachyons.css';
 
 export default {
-  components: MainLayout,
+  name:'Knowledge',
 };
 </script>

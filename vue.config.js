@@ -1,4 +1,6 @@
 module.exports = {
+  runtimeCompiler: true,
+  productionSourceMap: false,
   css: {
     loaderOptions: {
       sass: {
