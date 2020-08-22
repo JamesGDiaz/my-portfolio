@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400&family=Lato:wght@300;400;700&family=Marck+Script&display=swap');
+
+// Lato
+
+$lato: 'Lato', Helvetica, Arial, sans-serif;
+
+// Marck Script
+$marck: 'Marck Script', cursive;
+
+// IBM
+$ibm: 'IBM Plex Mono', monospace;
+
+.name{
+    font-family: $marck;
+}
+
+.code{
+    font-family: $ibm;
+}

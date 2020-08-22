@@ -1,0 +1,22 @@
+$white: #fff;
+$black: #000;
+$light: #fafafa;
+$dark: #111;
+$dark-light: #333;
+
+$primary: #283242;
+$foreground: $primary;
+$background: $light;
+$blue1: #00bceb;
+$blue2: #2c8ca6;
+$attention: #dd4c3f;
+
+.primary {
+  color: $primary;
+}
+.light {
+  color: $light;
+}
+.attention {
+  color: $attention;
+}

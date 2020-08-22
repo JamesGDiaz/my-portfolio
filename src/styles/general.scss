@@ -1,0 +1,11 @@
+@import './fonts.scss', './variables.scss';
+
+
+body {
+  font-family: $lato;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background: $background;
+  height: 100vh;
+}
